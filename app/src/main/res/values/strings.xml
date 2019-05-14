@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Laba 1</string>
+
+    <string-array name="models">
+        <item>Nexus</item>
+        <item>Galaxy</item>
+        <item>Honor</item>
+        <item>Pixel</item>
+    </string-array>
+
+    <string name="vendor">Vendor:</string>
+
+    <string name="model">Model:</string>
+
+</resources>
